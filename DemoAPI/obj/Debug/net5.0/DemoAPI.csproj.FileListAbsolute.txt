@@ -26,3 +26,4 @@ E:\Projects\Dotnet\Devopes\DemoAPI_App\DemoAPI\obj\Debug\net5.0\DemoAPI.dll
 E:\Projects\Dotnet\Devopes\DemoAPI_App\DemoAPI\obj\Debug\net5.0\ref\DemoAPI.dll
 E:\Projects\Dotnet\Devopes\DemoAPI_App\DemoAPI\obj\Debug\net5.0\DemoAPI.pdb
 E:\Projects\Dotnet\Devopes\DemoAPI_App\DemoAPI\obj\Debug\net5.0\DemoAPI.genruntimeconfig.cache
+E:\Projects\Dotnet\Devopes\DemoAPI_App\DemoAPI\obj\Debug\net5.0\DemoAPI.csproj.AssemblyReference.cache
